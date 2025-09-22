@@ -48,8 +48,7 @@ Our app requests access to your device's microphone (`RECORD_AUDIO` permission) 
 
 Our app may use the following third-party services for enhanced functionality:
 
-- **Speech Recognition APIs** (Google Speech-to-Text, Azure Speech Services)
-- **AI Processing Services** (OpenAI, Anthropic)
+- **Speech Recognition APIs** (Gemini Vertex AI)
 - **Analytics Services** (Firebase Analytics)
 
 These services have their own privacy policies, and we ensure they meet our privacy and security standards before integration.
@@ -108,13 +107,8 @@ This privacy policy complies with:
 
 If you have any questions, concerns, or requests regarding this privacy policy or our data practices, please contact us:
 
-**Email:** privacy@neurakind.com
-**Address:** [Your Company Address]
+**Email:** support@neurakind.com
 **Response Time:** We aim to respond to privacy inquiries within 48 hours
-
-## Data Protection Officer
-
-For EU residents, you may contact our Data Protection Officer at: dpo@neurakind.com
 
 ---
 
