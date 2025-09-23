@@ -1,0 +1,31 @@
+title: Chamate
+description: AI-powered mobile application for voice-based conversation and communication
+baseurl: "/Chamate"
+url: "https://bambooland.github.io"
+
+# GitHub Pages settings
+github_username: bambooland
+repository_name: Chamate
+
+# Jekyll theme
+theme: minima
+
+# Navigation
+header_pages:
+  - index.md
+  - TERMS_OF_USE.md
+  - PRIVACY_POLICY.md
+
+# Plugins
+plugins:
+  - jekyll-feed
+
+# Exclude files
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+
+# Markdown settings
+markdown: kramdown
+highlighter: rouge
