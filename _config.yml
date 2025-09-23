@@ -1,11 +1,11 @@
 title: Chamate
 description: AI-powered mobile application for voice-based conversation and communication
-baseurl: "/Chamate"
-url: "https://bambooland.github.io"
+baseurl: "/Chamate-docs"
+url: "https://neurakind.github.io"
 
 # GitHub Pages settings
-github_username: bambooland
-repository_name: Chamate
+github_username: Neurakind
+repository_name: Chamate-docs
 
 # Jekyll theme
 theme: minima
