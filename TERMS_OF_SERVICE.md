@@ -1,4 +1,4 @@
-# Terms of Use for Chamate
+# Terms of Service
 
 **Last updated:** September 23, 2025
 

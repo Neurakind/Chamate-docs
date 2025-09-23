@@ -1,10 +1,8 @@
-# Chamate
-
 Welcome to Chamate - an AI-powered mobile application for voice-based conversation and communication.
 
 ## Legal Documents
 
-- [Terms of Use](TERMS_OF_USE.md) - Updated September 23, 2025
+- [Terms of Service](TERMS_OF_SERVICE.md) - Updated September 23, 2025
 - [Privacy Policy](PRIVACY_POLICY.md) - Updated September 23, 2025
 
 ## About Chamate

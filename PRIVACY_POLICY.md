@@ -1,4 +1,4 @@
-# Privacy Policy for Chamate
+# Privacy Policy
 
 **Last updated:** September 23, 2025
 
