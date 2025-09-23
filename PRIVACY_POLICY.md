@@ -1,10 +1,10 @@
-# Privacy Policy for AI Tutor
+# Privacy Policy for Chamate
 
-**Last updated:** December 22, 2024
+**Last updated:** September 23, 2025
 
 ## Introduction
 
-AI Tutor ("we", "our", or "us") respects your privacy and is committed to protecting your personal data. This privacy policy explains how we collect, use, and protect your information when you use our mobile application ("the App").
+Chamate ("we", "our", or "us") respects your privacy and is committed to protecting your personal data. This privacy policy explains how we collect, use, and protect your information when you use our mobile application ("the App").
 
 ## Information We Collect
 
@@ -12,17 +12,17 @@ AI Tutor ("we", "our", or "us") respects your privacy and is committed to protec
 
 Our app requests access to your device's microphone (`RECORD_AUDIO` permission) for the following purposes:
 
-- **Voice Interaction:** To enable voice-based tutoring and conversation features
-- **Speech Recognition:** To convert your speech to text for better learning interaction
-- **Audio Learning:** To provide personalized audio-based learning experiences
-- **Language Practice:** To help with pronunciation and speaking exercises
+- **Voice Interaction:** To enable voice-based conversation features
+- **Speech Recognition:** To convert your speech to text for better interaction
+- **Audio Processing:** To provide personalized audio-based experiences
+- **Voice Features:** To support voice-based functionality and features
 
 ### Other Data
 
 - Device information (model, operating system version)
 - App usage analytics (anonymized)
 - User preferences and settings
-- Learning progress and performance data
+- User activity and performance data
 
 ## How We Use Audio Data
 
@@ -48,7 +48,7 @@ Our app requests access to your device's microphone (`RECORD_AUDIO` permission) 
 
 Our app may use the following third-party services for enhanced functionality:
 
-- **Speech Recognition APIs** (Gemini Vertex AI)
+- **Speech Recognition APIs** (Google AI)
 - **Analytics Services** (Firebase Analytics)
 
 These services have their own privacy policies, and we ensure they meet our privacy and security standards before integration.
@@ -65,7 +65,7 @@ You have the right to:
 
 ## Children's Privacy
 
-Our app is designed to be educational and may be used by children under 13. We comply with COPPA (Children's Online Privacy Protection Act):
+Our app may be used by children under 13. We comply with COPPA (Children's Online Privacy Protection Act):
 
 - We do not knowingly collect personal information from children under 13 without verifiable parental consent
 - Parents can review, delete, or request that we stop collecting their child's information
@@ -112,4 +112,4 @@ If you have any questions, concerns, or requests regarding this privacy policy o
 
 ---
 
-_This privacy policy is effective as of the date listed above and applies to all users of the AI Tutor mobile application._
+_This privacy policy is effective as of the date listed above and applies to all users of the Chamate mobile application._
