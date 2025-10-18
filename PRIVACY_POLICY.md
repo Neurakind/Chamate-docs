@@ -60,8 +60,19 @@ You have the right to:
 - **Deny Permission:** Deny microphone permission (though this may limit app functionality)
 - **Revoke Access:** Revoke microphone permission at any time through your device settings
 - **Data Deletion:** Request deletion of any stored personal data
+- **Account Deletion:** Delete your account and associated personal data (see Account Deletion section below)
 - **Data Export:** Request a copy of your data in a portable format
 - **Opt-out:** Opt out of analytics and data collection (may limit personalization features)
+
+## Account Deletion
+
+When you delete your account, we take the following actions:
+
+- **Personal Data Removal:** All personal data associated with your account will be permanently removed from our systems
+- **Abuse Prevention:** To prevent abuse of our free monthly quota system, we retain a non-identifiable hash of your email address for 30 days
+- **Usage Tracking:** We also retain the number of tokens used during the current month for quota management purposes
+
+This retention policy ensures fair usage of our free services while protecting your privacy through non-identifiable data storage.
 
 ## Children's Privacy
 
