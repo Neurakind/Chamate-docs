@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated:** September 23, 2025
+**Last updated:** October 28, 2025
 
 ## Introduction
 
@@ -24,13 +24,30 @@ Our app requests access to your device's microphone (`RECORD_AUDIO` permission) 
 - User preferences and settings
 - User activity and performance data
 
-## How We Use Audio Data
+### Subscription and Payment Data
 
-### Processing
+- **Payment Processing:** All payment transactions are processed through Apple App Store or Google Play Store. We do not directly collect, store, or process your payment card information
+- **Subscription Status:** We receive information about your subscription status (active, expired, cancelled) from the app store platform
+- **Purchase History:** We may receive anonymized purchase verification tokens to validate your subscription status
+- **Billing Information:** Your billing address and payment method details are managed exclusively by Apple or Google and are not accessible to us
+
+## How We Use Your Data
+
+### Audio Data Processing
 
 - **Local Processing:** Audio may be processed locally on your device for immediate feedback
 - **Cloud Processing:** Some audio may be sent to secure cloud services for advanced speech recognition and AI processing
 - **Temporary Storage:** Audio data is processed in real-time and temporarily cached only as needed for functionality
+
+### Subscription Data Usage
+
+We use subscription and payment-related information to:
+
+- **Service Access:** Verify your subscription status and grant appropriate access to premium features
+- **Account Management:** Manage your account and subscription lifecycle
+- **Customer Support:** Provide support for subscription-related inquiries
+- **Usage Analytics:** Understand subscription patterns to improve our service offerings (anonymized data only)
+- **Fraud Prevention:** Detect and prevent fraudulent subscription activities
 
 ### Storage and Retention
 
@@ -50,8 +67,7 @@ Our app may use the following third-party services for enhanced functionality:
 
 - **Speech Recognition APIs** (Google AI)
 - **Analytics Services** (Firebase Analytics)
-
-These services have their own privacy policies, and we ensure they meet our privacy and security standards before integration.
+- **Payment Processing** (Apple App Store, Google Play Store, RevenueCat)
 
 ## Your Rights and Choices
 
@@ -63,6 +79,9 @@ You have the right to:
 - **Account Deletion:** Delete your account and associated personal data (see Account Deletion section below)
 - **Data Export:** Request a copy of your data in a portable format
 - **Opt-out:** Opt out of analytics and data collection (may limit personalization features)
+- **Subscription Management:** View, modify, or cancel your subscription at any time through your device's app store settings
+- **Payment Information Access:** Access your payment history and billing information through your Apple or Google account
+- **Subscription Data:** Request information about your subscription status and usage
 
 ## Account Deletion
 
@@ -71,6 +90,8 @@ When you delete your account, we take the following actions:
 - **Personal Data Removal:** All personal data associated with your account will be permanently removed from our systems
 - **Abuse Prevention:** To prevent abuse of our free monthly quota system, we retain a non-identifiable hash of your email address for 30 days
 - **Usage Tracking:** We also retain the number of tokens used during the current month for quota management purposes
+- **Active Subscriptions:** Deleting your account does not automatically cancel your subscription. You must separately cancel your subscription through your device's app store settings to stop future billing. Subscription cancellation follows the terms outlined in our Terms of Service
+- **Subscription History:** Anonymized subscription transaction records may be retained for legal, tax, and accounting purposes as required by law
 
 This retention policy ensures fair usage of our free services while protecting your privacy through non-identifiable data storage.
 
