@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated:** October 28, 2025
+**Last updated:** June 3, 2026
 
 ## Introduction
 
@@ -23,6 +23,17 @@ Our app requests access to your device's microphone (`RECORD_AUDIO` permission) 
 - App usage analytics (anonymized)
 - User preferences and settings
 - User activity and performance data
+
+### Contact and Promotional Information
+
+During the optional introduction steps when you first use the App, you may choose to provide:
+
+- **Name:** Your display name or preferred name
+- **Phone Number:** Your mobile phone number
+
+Providing this information is **entirely optional**. You may skip these steps and continue using the App without limitation. If you choose to provide your name and phone number, we use this information solely to contact you about promotional programs, special offers, and benefits so you do not miss opportunities available to you.
+
+We store this information on our own systems. **We do not sell, rent, or share your name or phone number with any third parties** for promotional or any other purposes.
 
 ### Subscription and Payment Data
 
@@ -49,11 +60,24 @@ We use subscription and payment-related information to:
 - **Usage Analytics:** Understand subscription patterns to improve our service offerings (anonymized data only)
 - **Fraud Prevention:** Detect and prevent fraudulent subscription activities
 
+### Promotional Communications
+
+If you voluntarily provide your name and phone number during onboarding, we use that information only to:
+
+- **Program Consultation:** Inform you about promotional programs and eligible benefits
+- **Offer Notifications:** Send you relevant updates about special offers when available
+- **User Benefit:** Help ensure you do not miss promotional opportunities tied to your use of the App
+
+We contact you only through channels we operate directly (for example, in-app messages, email, or phone/SMS initiated by our team). We do not use third-party marketing platforms to process or distribute your name or phone number.
+
+You may decline to provide this information at any time during onboarding, and you may request that we stop promotional contact or delete your name and phone number at any time (see Your Rights and Choices and Account Deletion below).
+
 ### Storage and Retention
 
 - **No Permanent Storage:** We do not permanently store your audio recordings unless explicitly requested by you for specific features (e.g., saving voice notes)
 - **Automatic Deletion:** Temporary audio data is automatically deleted after processing
 - **User Control:** You can request deletion of any stored data at any time
+- **Contact Information:** If you provided your name and phone number, we retain it only while needed for promotional communications or until you request deletion or opt out
 
 ### Security
 
@@ -69,6 +93,8 @@ Our app may use the following third-party services for enhanced functionality:
 - **Analytics Services** (Firebase Analytics)
 - **Payment Processing** (Apple App Store, Google Play Store, RevenueCat)
 
+**Contact and promotional data:** Your name and phone number, if you choose to provide them, are **not** disclosed to these or any other third parties. They are used only by us for the promotional purposes described in this policy.
+
 ## Your Rights and Choices
 
 You have the right to:
@@ -79,6 +105,8 @@ You have the right to:
 - **Account Deletion:** Delete your account and associated personal data (see Account Deletion section below)
 - **Data Export:** Request a copy of your data in a portable format
 - **Opt-out:** Opt out of analytics and data collection (may limit personalization features)
+- **Promotional Opt-out:** Decline to provide your name or phone number during onboarding, or request that we stop promotional contact and delete that information at any time by contacting us
+- **Update Contact Information:** Request correction or update of your name or phone number on file
 - **Subscription Management:** View, modify, or cancel your subscription at any time through your device's app store settings
 - **Payment Information Access:** Access your payment history and billing information through your Apple or Google account
 - **Subscription Data:** Request information about your subscription status and usage
@@ -87,7 +115,8 @@ You have the right to:
 
 When you delete your account, we take the following actions:
 
-- **Personal Data Removal:** All personal data associated with your account will be permanently removed from our systems
+- **Personal Data Removal:** All personal data associated with your account will be permanently removed from our systems, including your name and phone number if you provided them for promotional communications
+- **Promotional Communications:** We will stop all promotional contact using your name or phone number upon account deletion or upon your opt-out request
 - **Abuse Prevention:** To prevent abuse of our free monthly quota system, we retain a non-identifiable hash of your email address for 30 days
 - **Usage Tracking:** We also retain the number of tokens used during the current month for quota management purposes
 - **Active Subscriptions:** Deleting your account does not automatically cancel your subscription. You must separately cancel your subscription through your device's app store settings to stop future billing. Subscription cancellation follows the terms outlined in our Terms of Service

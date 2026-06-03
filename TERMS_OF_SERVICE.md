@@ -1,6 +1,6 @@
 # Terms of Service
 
-**Last updated:** September 23, 2025
+**Last updated:** June 3, 2026
 
 ## 1. Acceptance of Terms
 
@@ -15,6 +15,7 @@ Chamate is an AI-powered mobile application that provides:
 - Personalized audio-based experiences
 - Interactive AI conversation sessions
 - Voice interaction and communication features
+- Optional promotional program updates, when you choose to share contact information during onboarding
 
 ## 3. Eligibility
 
@@ -73,7 +74,17 @@ You may NOT use the App for:
 - Personal information of others without consent
 - Any content that violates applicable laws
 
-## 7. Intellectual Property Rights
+## 7. Promotional Communications
+
+During the optional introduction flow for new users, you may choose to provide your name and phone number so we can contact you about promotional programs and benefits. This section applies only if you voluntarily provide that information.
+
+- **Optional:** You may skip this step at any time; skipping does not affect your access to the App
+- **Purpose:** We use your name and phone number only to inform you about promotional programs, offers, and eligible benefits
+- **No Third-Party Sharing:** We do not sell, rent, or share your name or phone number with third parties for promotional or other purposes, as described in our Privacy Policy
+- **Accuracy:** You agree to provide accurate contact information if you choose to submit it
+- **Opt-out:** You may request that we stop promotional contact or delete your name and phone number at any time by contacting support@neurakind.com or through account deletion as described in our Privacy Policy
+
+## 8. Intellectual Property Rights
 
 ### Our Rights
 
@@ -87,7 +98,7 @@ You may NOT use the App for:
 - You grant us a limited license to use your data as described in our Privacy Policy
 - Any feedback or suggestions you provide may be used to improve the App
 
-## 8. Third-Party Services
+## 9. Third-Party Services
 
 The App integrates with third-party services including:
 
@@ -96,7 +107,7 @@ The App integrates with third-party services including:
 
 Your use of these services is subject to their respective terms of service and privacy policies.
 
-## 9. Disclaimers and Limitations
+## 10. Disclaimers and Limitations
 
 ### General Purpose
 
@@ -116,13 +127,13 @@ Your use of these services is subject to their respective terms of service and p
 - We are not liable for indirect, incidental, or consequential damages
 - Total liability shall not exceed the amount paid for the App (if any)
 
-## 10. Privacy and Data Protection
+## 11. Privacy and Data Protection
 
 - Your use of the App is governed by our Privacy Policy
 - We are committed to protecting your personal information
 - Data processing complies with GDPR, CCPA, and COPPA requirements
 
-## 11. Account Termination
+## 12. Account Termination
 
 ### By You
 
@@ -135,7 +146,7 @@ Your use of these services is subject to their respective terms of service and p
 - We may discontinue the service with reasonable notice
 - Termination does not affect previously accrued rights or obligations
 
-## 12. Updates and Modifications
+## 13. Updates and Modifications
 
 ### App Updates
 
@@ -148,13 +159,13 @@ Your use of these services is subject to their respective terms of service and p
 - Material changes will be communicated through the App
 - Continued use after changes constitutes acceptance
 
-## 13. Geographic Restrictions
+## 14. Geographic Restrictions
 
 - The App is primarily intended for users in regions where our services are legally available
 - Some features may not be available in all jurisdictions
 - Users are responsible for compliance with local laws
 
-## 14. Contact and Support
+## 15. Contact and Support
 
 ### Customer Support
 
@@ -167,7 +178,7 @@ Your use of these services is subject to their respective terms of service and p
 - Report inappropriate content or behavior immediately
 - Report security concerns to our support team
 
-## 15. Dispute Resolution
+## 16. Dispute Resolution
 
 ### Governing Law
 
@@ -180,15 +191,15 @@ Your use of these services is subject to their respective terms of service and p
 2. If unresolved, disputes may be subject to binding arbitration
 3. Class action lawsuits are waived to the extent permitted by law
 
-## 16. Severability
+## 17. Severability
 
 If any provision of these Terms is found to be unenforceable, the remaining provisions will continue in full force and effect.
 
-## 17. Entire Agreement
+## 18. Entire Agreement
 
 These Terms, together with our Privacy Policy, constitute the entire agreement between you and Neurakind regarding the use of Chamate.
 
-## 18. Emergency Situations
+## 19. Emergency Situations
 
 - The App is not designed for emergency situations
 - For medical, legal, or safety emergencies, contact appropriate local authorities
